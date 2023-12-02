@@ -2,5 +2,4 @@
 # This bash script shows listening sockets
 # It shows the PID and name of the program to which each socket belongs
 
-echo "Active Internet connections (only servers)"
 netstat -tulnep
